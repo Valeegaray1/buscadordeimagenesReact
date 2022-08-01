@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscadordeimagenesReact/static/css/main.49ea4649.css",
+    "main.js": "/buscadordeimagenesReact/static/js/main.5bc51faf.js",
+    "index.html": "/buscadordeimagenesReact/index.html",
+    "main.49ea4649.css.map": "/buscadordeimagenesReact/static/css/main.49ea4649.css.map",
+    "main.5bc51faf.js.map": "/buscadordeimagenesReact/static/js/main.5bc51faf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ea4649.css",
+    "static/js/main.5bc51faf.js"
+  ]
+}
